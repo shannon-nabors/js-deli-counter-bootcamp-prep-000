@@ -1,4 +1,4 @@
-/*function takeANumber(line, newName) {
+function takeANumber(line, newName) {
   line.push(newName);
   return("Welcome, " + newName + ". You are number " + line.length + " in line.");
 }
@@ -34,7 +34,7 @@ function currentLine(line) {
   }
 }
 
-/*let katzDeli = ["Greg"];
+let katzDeli = ["Greg"];
 
 console.log(takeANumber(katzDeli, "Rex"));
 console.log(takeANumber(katzDeli, "Jason"));
@@ -48,4 +48,4 @@ console.log(nowServing(katzDeli));
 console.log(currentLine(katzDeli));
 console.log(nowServing(katzDeli));
 console.log(currentLine(katzDeli));
-console.log(nowServing(katzDeli));*/
+console.log(nowServing(katzDeli));
