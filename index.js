@@ -1,16 +1,16 @@
 /*function takeANumber(line, newName) {
   line.push(newName);
   return("Welcome, " + newName + ". You are number " + line.length + " in line.");
-}*/
+}
 
-var line = [1, 2]
+/*var line = [1, 2]
 
 function takeANumber(line) {
   line.push(line[line.length - 1] + 1);
   return(line.length);
 }
 
-console.log(takeANumber(line));
+console.log(takeANumber(line));*/
 
 function nowServing(line) {
   if (line.length > 0) {
